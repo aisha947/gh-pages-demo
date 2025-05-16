@@ -1,1 +1,1 @@
-# gh-pages-demo
+# GitHub Pages Demo
